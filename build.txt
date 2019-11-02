@@ -1,0 +1,5 @@
+displayName = Mech Tweaker
+author = jopojelly
+version = 1.0
+homepage = https://forums.terraria.org/index.php?threads/mech-tweaker-customize-statue-timer-and-trap-timers-and-limits.83814/
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, *.config, .git\*,

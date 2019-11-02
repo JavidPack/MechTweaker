@@ -1,0 +1,13 @@
+Mech Tweaker allows for customization of mechanical game elements such as timers, statues, and traps.
+
+By adjusting values in the config, you can customize timing and limits.
+
+Statues are normally limited to 3 items or 3 npc spawned, but adjusting the "Statue Limits" options can customize this limit.
+
+Timers, traps, and statues also have various cooldowns which can also be adjusted.
+
+To speed up a timer triggering a statue, both "Timer Speed Multiplier" and "Mechanic Speed Multiplier" need to be used together.
+
+Be wary of extreme speeds in multiplayer play, as spawning traps extremely fast could cause lag, especially if there are several traps.
+
+Also note that Spiky Ball Traps can't yet be sped up very much since the spiky ball limit is still in effect.
